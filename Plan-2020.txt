@@ -1,0 +1,4 @@
+Plan 2020
+-Menguasai php
+-Menguasai laravel
+-Bikin Toko Online
